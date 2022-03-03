@@ -1,0 +1,76 @@
+.root {
+    -fx-background-color: black;
+}
+
+#menuHeader {
+    -fx-text-fill: grey;
+}
+
+.button {
+    -fx-border-color: #DAA520;
+    -fx-border-width: 2px;
+    -fx-background-color: #DAA520;
+    -fx-text-fill: black;
+}
+
+.button:hover{
+    -fx-border-color: #DAA520;
+    -fx-border-width: 2px;
+    -fx-background-color: black;
+    -fx-text-fill: #DAA520;
+}
+
+.menu-button {
+    -fx-border-color: #DAA520;
+    -fx-border-width: 2px;
+    -fx-background-color: #DAA520;
+    -fx-text-fill: black;
+}
+
+.menu-button:hover {
+    -fx-border-color: #DAA520;
+    -fx-border-width: 2px;
+    -fx-background-color: black;
+    -fx-text-fill: #DAA520;
+}
+
+.toggle-button {
+    -fx-border-color: #DAA520;
+    -fx-border-width: 2px;
+    -fx-background-color: #DAA520;
+    -fx-text-fill: black;
+}
+
+.toggle-button:hover {
+    -fx-border-color: #DAA520;
+    -fx-border-width: 2px;
+    -fx-background-color: black;
+    -fx-text-fill: #DAA520;
+}
+
+.toggle-button:selected {
+    -fx-border-color: #DAA520;
+    -fx-border-width: 2px;
+    -fx-background-color: black;
+    -fx-text-fill: #DAA520;
+}
+
+.items {
+    -fx-border-color: #DAA520;
+    -fx-border-width: 2px;
+    -fx-background-color: #DAA520;
+    -fx-text-fill: black;
+}
+
+.menu-item {
+    /*-fx-border-color: #DAA520;*/
+    /*-fx-border-width: 2px;*/
+    -fx-background-color: #DAA520;
+    -fx-text-fill: black;
+}
+
+.menu-item:hover {
+    -fx-background-color: black;
+    -fx-text-fill: #DAA520;
+}
+

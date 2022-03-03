@@ -1,0 +1,12 @@
+.idea
+.git
+target
+Model/FirstJava.iml
+checkstyle2020
+database
+derby.log
+View/logs
+testFile.save
+Model.iml
+View.iml
+SudokuGameProject.iml
